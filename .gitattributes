@@ -1,0 +1,7 @@
+课程设计Linux.doc filter=lfs diff=lfs merge=lfs -text
+网页课设.rar filter=lfs diff=lfs merge=lfs -text
+ikeat filter=lfs diff=lfs merge=lfs -text
+java课设.zip filter=lfs diff=lfs merge=lfs -text
+java实验.zip filter=lfs diff=lfs merge=lfs -text
+oracle课设.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
